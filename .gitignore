@@ -1,0 +1,18 @@
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# Arquivos do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos sensíveis (não envie senhas ou chaves!)
+senhas.txt
+chaves/
+*.key
+*.pem
+
+# Arquivos de sistema
+.DS_Store
