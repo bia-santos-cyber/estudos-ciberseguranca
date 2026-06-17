@@ -24,3 +24,94 @@ Cybersecurity
 ├── Web                 → Vulnerabilidades, testes e proteção de aplicações web
 ├── Projetos            → Projetos completos, documentados e com resultados práticos
 └── Materiais_Referencia→ Livros, normas, artigos e materiais de consulta
+
+## 🎯 Objetivos de Aprendizado
+
+- Dominar fundamentos de Redes de Computadores e Sistemas Operacionais
+- Desenvolver raciocínio lógico e automação utilizando Python
+- Compreender princípios de Segurança da Informação, normas e boas práticas
+- Aprender técnicas de defesa, análise de vulnerabilidades e testes de segurança
+- Alcançar certificações reconhecidas pelo mercado
+- Construir um portfólio técnico sólido para ingressar profissionalmente na área
+
+---
+
+## 🛠️ Ferramentas e Ambiente
+
+| Categoria | Ferramenta |
+|------------|------------|
+| Sistema Operacional | Windows 11 |
+| Editor de Código | Visual Studio Code |
+| Versionamento | Git + GitHub |
+| Anotações | Markdown |
+| Estudos Futuros | Linux, Redes, Python, Segurança da Informação |
+
+---
+
+## 📚 Roadmap de Estudos
+
+### Fundamentos
+- [ ] Linux
+- [ ] Redes de Computadores
+- [ ] Git e GitHub
+- [ ] Inglês Técnico
+
+### Programação
+- [ ] Lógica de Programação
+- [ ] Python
+- [ ] Automação
+
+### Segurança da Informação
+- [ ] Fundamentos de Cybersecurity
+- [ ] Hardening
+- [ ] Análise de Vulnerabilidades
+- [ ] Pentest Web
+- [ ] Active Directory
+- [ ] Segurança em Redes
+
+### Desenvolvimento Profissional
+- [ ] Portfólio Técnico
+- [ ] LinkedIn Profissional
+- [ ] Certificações
+- [ ] Projetos Práticos
+
+---
+
+## 📈 Progresso
+
+- [x] Estrutura de pastas organizada
+- [x] Git instalado e configurado
+- [x] Integração com GitHub concluída
+- [x] Documentação inicial criada
+- [ ] Primeiros projetos práticos
+- [ ] Estudo de redes básicas
+- [ ] Primeiros scripts em Python
+
+---
+
+## 📂 Estrutura Atual
+
+```text
+Cybersecurity
+│
+├── Anotacoes
+├── Certificacoes
+├── Git
+├── Ingles_Tecnico
+├── Laboratorios
+├── Linux
+├── Python
+├── Redes
+├── Seguranca
+└── Web
+```
+
+---
+
+## 🚀 Objetivo de Longo Prazo
+
+Construir uma base sólida em tecnologia, desenvolver habilidades práticas em Segurança Ofensiva e criar um portfólio capaz de demonstrar evolução técnica contínua para futuras oportunidades profissionais na área de Cybersecurity.
+
+---
+
+> "A segurança não é um produto, mas um processo contínuo de aprendizado e proteção."
