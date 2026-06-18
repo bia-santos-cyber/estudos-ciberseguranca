@@ -1,117 +1,91 @@
-# 🛡️ Estudos e Formação em Cibersegurança
+# 🛡️ Cibersegurança — Estudos, Projetos e Conhecimento
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Segurança%20da%20Informação-green?style=for-the-badge" alt="Foco">
+  <img src="https://img.shields.io/badge/Tecnologias-Linux%20%7C%20Python%20%7C%20Redes-orange?style=for-the-badge" alt="Tecnologias">
+  <img src="https://img.shields.io/github/last-commit/SEU_USUARIO/SEU_REPOSITORIO?style=for-the-badge" alt="Último Commit">
+</div>
+
+---
 
 ## 📌 Sobre este repositório
-Este espaço reúne todo o material, anotações, exercícios, projetos e conteúdos desenvolvidos durante minha jornada de aprendizado e formação na área de Cibersegurança. O objetivo é documentar toda a evolução, organizar o conhecimento e construir um portfólio técnico profissional.
+Este espaço reúne todo o meu material de estudo, anotações, exercícios, laboratórios práticos e projetos desenvolvidos durante minha formação em **Cibersegurança**. O objetivo é documentar minha evolução, organizar o conhecimento adquirido e compartilhar conteúdo estruturado para consulta e aprendizado contínuo.
+
+> 💡 *“A segurança não é um produto, mas um processo.” — Bruce Schneier*
 
 ---
 
-## 🗂️ Estrutura do Repositório
-A organização segue os pilares fundamentais da área, com divisão lógica para facilitar o estudo e a consulta:
+## 📂 Estrutura do Repositório
 
-```text
-Cybersecurity
-├── Anotacoes           → Resumos, conceitos, anotações de aulas e estudos
-├── Certificacoes       → Materiais, simulados e guias para certificações
-├── Git                 → Comandos, fluxos e boas práticas de versionamento
-├── Ingles_Tecnico      → Vocabulário, termos e materiais em inglês aplicados à área
-├── Laboratorios        → Ambientes práticos, testes e simulações
-├── Linux               → Comandos, scripts e administração de sistemas Linux
-│   └── Scripts         → Arquivos .sh e automações de terminal
-├── Python              → Lógica de programação e scripts para segurança
-│   └── Scripts         → Códigos desenvolvidos para estudos e ferramentas
-├── Redes               → Fundamentos, protocolos, topologias e segurança de redes
-├── Seguranca           → Conceitos centrais: criptografia, normas, gestão de riscos, defesa e ataque
-├── Web                 → Vulnerabilidades, testes e proteção de aplicações web
-├── Projetos            → Projetos completos, documentados e com resultados práticos
-└── Materiais_Referencia→ Livros, normas, artigos e materiais de consulta
+cybersegurança/
+├── 📁 Anotacoes/ → Resumos, conceitos e observações das aulas
+├── 📁 Certificacoes/ → Materiais, guias e simulados para certificações
+├── 📁 Git/ → Comandos, fluxos e boas práticas de versionamento
+├── 📁 Ingles_Tecnico/ → Vocabulário e materiais específicos da área
+├── 📁 Laboratorios/ → Práticas, testes e ambientes simulados
+├── 📁 Linux/ → Comandos, scripts e fundamentos do sistema
+├── 📁 Python/ → Códigos, automações e ferramentas criadas
+├── 📁 Redes/ → Protocolos, topologias e análise de tráfego
+├── 📁 Seguranca/ → Ameaças, defesas, criptografia e políticas
+├── 📁 Web/ → Segurança em aplicações e testes de vulnerabilidade
+├── 📁 Projetos/ → Projetos completos desenvolvidos ao longo do curso
+├── 📁 Materiais_Referencia/→ Livros, artigos, documentações e links úteis
+└── 📄 README.md → Você está aqui!
 
-## 🎯 Objetivos de Aprendizado
-
-- Dominar fundamentos de Redes de Computadores e Sistemas Operacionais
-- Desenvolver raciocínio lógico e automação utilizando Python
-- Compreender princípios de Segurança da Informação, normas e boas práticas
-- Aprender técnicas de defesa, análise de vulnerabilidades e testes de segurança
-- Alcançar certificações reconhecidas pelo mercado
-- Construir um portfólio técnico sólido para ingressar profissionalmente na área
 
 ---
 
-## 🛠️ Ferramentas e Ambiente
+## 🎯 O que estou aprendendo
 
-| Categoria | Ferramenta |
-|------------|------------|
-| Sistema Operacional | Windows 11 |
-| Editor de Código | Visual Studio Code |
-| Versionamento | Git + GitHub |
-| Anotações | Markdown |
-| Estudos Futuros | Linux, Redes, Python, Segurança da Informação |
+✅ **Fundamentos de Segurança**  
+Conceitos de confidencialidade, integridade, disponibilidade, ameaças, riscos e vulnerabilidades.
 
----
+✅ **Sistemas Operacionais**  
+Domínio de Linux (Kali, Ubuntu) e Windows, comandos avançados e administração segura.
 
-## 📚 Roadmap de Estudos
+✅ **Redes de Computadores**  
+Funcionamento de protocolos, topologias, análise de tráfego, firewall e detecção de intrusão.
 
-### Fundamentos
-- [ ] Linux
-- [ ] Redes de Computadores
-- [ ] Git e GitHub
-- [ ] Inglês Técnico
+✅ **Criptografia**  
+Métodos de proteção de dados, hashes, criptografia simétrica e assimétrica, certificados.
 
-### Programação
-- [ ] Lógica de Programação
-- [ ] Python
-- [ ] Automação
+✅ **Segurança Web**  
+Identificação e exploração de vulnerabilidades comuns (SQLi, XSS, CSRF), testes de invasão ética.
 
-### Segurança da Informação
-- [ ] Fundamentos de Cybersecurity
-- [ ] Hardening
-- [ ] Análise de Vulnerabilidades
-- [ ] Pentest Web
-- [ ] Active Directory
-- [ ] Segurança em Redes
+✅ **Automação e Desenvolvimento**  
+Criação de ferramentas e scripts com Python e Bash para otimização de tarefas.
 
-### Desenvolvimento Profissional
-- [ ] Portfólio Técnico
-- [ ] LinkedIn Profissional
-- [ ] Certificações
-- [ ] Projetos Práticos
+✅ **Ética e Conformidade**  
+Legislação, boas práticas, LGPD e responsabilidade profissional.
 
 ---
 
-## 📈 Progresso
+## 🛠️ Ferramentas e Tecnologias
 
-- [x] Estrutura de pastas organizada
-- [x] Git instalado e configurado
-- [x] Integração com GitHub concluída
-- [x] Documentação inicial criada
-- [ ] Primeiros projetos práticos
-- [ ] Estudo de redes básicas
-- [ ] Primeiros scripts em Python
-
----
-
-## 📂 Estrutura Atual
-
-```text
-Cybersecurity
-│
-├── Anotacoes
-├── Certificacoes
-├── Git
-├── Ingles_Tecnico
-├── Laboratorios
-├── Linux
-├── Python
-├── Redes
-├── Seguranca
-└── Web
-```
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=flat-square&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
+</div>
 
 ---
 
-## 🚀 Objetivo de Longo Prazo
-
-Construir uma base sólida em tecnologia, desenvolver habilidades práticas em Segurança Ofensiva e criar um portfólio capaz de demonstrar evolução técnica contínua para futuras oportunidades profissionais na área de Cybersecurity.
+## 📈 Evolução
+Este repositório é atualizado constantemente conforme avanço nos estudos. Cada nova pasta, anotação ou código representa um passo a mais na minha jornada para me tornar um profissional qualificado em cibersegurança.
 
 ---
 
-> "A segurança não é um produto, mas um processo contínuo de aprendizado e proteção."
+## 📫 Contato
+Quer trocar uma ideia, compartilhar conhecimento ou sugerir melhorias?  
+Fique à vontade para abrir uma *issue*, enviar um *pull request* ou entrar em contato!
+
+---
+
+<div align="center">
+  <sub>💻 Desenvolvido com dedicação por Bianca do couto</sub>
+</div>
